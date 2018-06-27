@@ -1,40 +1,60 @@
-app    SCscramblegg                 =  Robots Invade London                                                                   
+app    SCscramblegg                 =  Scrambled Eggs                                                                   
        author                       =  OnCoreliu1                                                                                            
-       description                  =  v050418 Robo1                                                      
+       description                  =  How to make scrambled eggs                                                     
        email                        =  coreliuorg@gmail.com                                                                             
        emphasis                     =  15                                                                                               
-       icon                         =  IMG_5718.jpg 
-       logoText                     =  Public Robo 1, Coreliu
+       icon                         =  140.jpg 
+       logoText                     =  Scrambled Eggs, Coreliu
+       ordered                      =  always
        
        
-photo  Robo.arrives                 =  Robo arrives                                                                          
-       url                          =  IMG_5712.jpg                                                                                              
-fact   Robo.arrives.1               =  An unsuspecting crowd                                                                                       
-fact   Robo.arrives.2               =  Walkabouts prevent rust                                                                                                                                   
+photo  Heat.oil                     =  Heat some oil on a low heat                                                                          
+       url                          =  010.jpg                                                                                              
+                                                                                                                                
 
-Photo  TommyC                       = A Tommy Cooper impersonation
-       url                          = IMG_5715.jpg
-fact   TommyC.1                     = Robo does a good Tommy Cooper
-fact   TommyC.2                     = Robo tries to please crowd with impersonation
-
-photo  Poses                        = Robo poses
-       url                          = IMG_5718.jpg
-fact   Poses.1                      = He likes to pose and take selfies
-fact   Poses.2                      = Always happy to have his photo taken
-
-photo  HowDoesHeLook                = Robo asks to see how he looks
-       url                          = IMG_5720.jpg
-fact   HowDoesHeLook.1              = Wonders if his photo needs retouching
-fact   HowDoesHeLook.2              = Even robots want to look good on social media
-
-photo  Ice.cream                    = Considers stealing an ice cream
-       url                          = IMG_5716.jpg
-fact   Ice.cream.1                  = That ice cream looks good
-fact   Ice.cream.2                  = Processing pack computes whether it's ok to steal the ice cream
+photo  Take.eggs                    = Take some fresh eggs
+       url                          = 020.jpg
 
 
+photo  Crack.eggs                   = Crack eggs into a bowl
+       url                          = 030.jpg
 
 
+photo  Whisk.eggs                   = Whisk eggs and add a splash of milk
+       url                          = 040.jpg
+       
+photo  Frothy.eggs                  = Get eggs nice and frothy
+       url                          = 050.jpg
+
+photo  Start.stir                   = Put frothy eggs in pan and start to stir
+       url                          = 060.jpg
+
+photo  Bread.toaster                = Put bread in the toaster just after starting to stir the eggs in the pan
+       url                          = 070.jpg
+       
+photo  Keep.stirring                = Keep stirring the eggs or they'll stick and burn
+       url                          = 080.jpg
+
+photo  Not.quite                    = Eggs not quite cooked but nearly done
+       url                          = 090.jpg
+       
+photo  Burnt.toast                  = Oh the toast is burnt, throw it away
+       url                          = 100.jpg
+       
+
+photo  Butter.toast                 = Butter the toast just before the eggs are cooked
+       url                          = 110.jpg
+       
+
+photo  Eggs.cooked                  = When eggs look cooked, put them on buttered toast
+       url                          = 120.jpg
+       
+
+photo  Water.pan                    = Put water in the pan as soon as the eggs are out
+       url                          = 130.jpg
+       
+
+photo Parsley.salt                  = Add parsley, salt and paprika (if the person wants them and is not on a low sodium diet). Now         your're ready to serve
 
 
 
