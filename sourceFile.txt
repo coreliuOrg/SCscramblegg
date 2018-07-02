@@ -53,7 +53,7 @@ photo  Eggs.cooked                  = When eggs look cooked, put them on buttere
 photo  Water.pan                    = Put water in the pan as soon as the eggs are out
        url                          = 130.jpg
        
-photo Herb.spice                    = Check allergies and dietary restrictions
+photo Herb.spice                    = Check allergies and diet restrictions
        url                          = 135.jpg   
 
 photo Parsley.salt                  = Add finishing touches and serve!
