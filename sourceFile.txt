@@ -1,5 +1,5 @@
 app    SCscramblegg                 =  Scrambled Eggs                                                                   
-       author                       =  OnCoreliu1                                                                                            
+       author                       =  coreliuOrg                                                                                            
        description                  =  How to make scrambled eggs                                                     
        email                        =  coreliuorg@gmail.com                                                                             
        emphasis                     =  15                                                                                               
