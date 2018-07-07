@@ -6,6 +6,7 @@ app    SCscramblegg                 =  Scrambled Eggs
        icon                         =  140.jpg 
        logoText                     =  Scrambled Eggs, Coreliu
        rightInARow                  =  3
+       levels                       = 7
        ordered                      =  finally
        
        
