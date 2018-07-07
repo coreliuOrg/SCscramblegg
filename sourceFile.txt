@@ -5,8 +5,8 @@ app    SCscramblegg                 =  Scrambled Eggs
        emphasis                     =  15                                                                                               
        icon                         =  140.jpg 
        logoText                     =  Scrambled Eggs, Coreliu
-       rightInARow                  = 3
-       ordered                      =  always
+       rightInARow                  =  3
+       ordered                      =  finally
        
        
 photo  Heat.oil                     =  Heat some oil on a low heat                                                                          
