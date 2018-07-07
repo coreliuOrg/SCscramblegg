@@ -4,7 +4,8 @@ app    SCscramblegg                 =  Scrambled Eggs
        email                        =  coreliuorg@gmail.com                                                                             
        emphasis                     =  15                                                                                               
        icon                         =  140.jpg 
-       logoText                     =  Scrambled Eggs, Coreliu
+       logoText                     =  Scrambled Eggs
+       rightInArow                  = 3 
        ordered                      =  finally
        
        
