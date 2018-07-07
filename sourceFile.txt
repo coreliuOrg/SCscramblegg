@@ -5,6 +5,7 @@ app    SCscramblegg                 =  Scrambled Eggs
        emphasis                     =  15                                                                                               
        icon                         =  140.jpg 
        logoText                     =  Scrambled Eggs, Coreliu
+       rightInARow                  = 3
        ordered                      =  always
        
        
