@@ -1,2 +1,2 @@
-# SCscramblegg
-PublicRobo1 cloned and turned into scrambled egg process app.
+# PublicRobo1
+Retest system setup config using public repo, with Robo
