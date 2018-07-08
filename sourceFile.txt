@@ -3,7 +3,7 @@ app    SCscramblegg                 =  Scrambled Eggs
        description                  =  How to make scrambled eggs                                                     
        email                        =  coreliuorg@gmail.com                                                                             
        emphasis                     =  15                                                                                               
-       icon                         =  140.jpg 
+       icon                        =  140.jpg 
        logoText                     =  Scrambled Eggs, Coreliu
        ordered                      =  finally
        
